@@ -1,0 +1,37 @@
+body {
+  font-family: sans-serif;
+}
+
+.input-area {
+  background-color: #da7dff;
+  width: 400px;
+  height: 30px;
+  padding: 8px;
+  margin: 8px;
+}
+
+.imcomplate-area {
+  background-color: #d772e8;
+  width: 400px;
+  min-height: 200px;
+  padding: 8px;
+  margin: 8px;
+}
+
+.complate-area {
+  background-color: #9d8aff;
+  width: 400px;
+  min-height: 200px;
+  padding: 8px;
+  margin: 8px;
+}
+
+li {
+  margin-right: 8px;
+}
+
+.list-row {
+  display: flex;
+  align-items: center;
+  padding-bottom: 12px;
+}
